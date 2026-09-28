@@ -1,6 +1,6 @@
 # Hotel-business-analysis-EDA
 
-##1. Introduction
+## 1. Introduction
 
 • In this project, I analysed hotel booking data to understand customer booking
 behaviour and cancellation patterns.
@@ -9,7 +9,7 @@ behaviour and cancellation patterns.
 main purpose of this analysis was to understand which hotel type customers prefer
 and which booking factors are related to a higher cancellation rate.
 
-The project focuses on the following main business questions:
+### The project focuses on the following main business questions:
 1. Which hotel type receives more bookings?
 2. How do booking trends change across different months?
 3. Which hotel type has a higher cancellation risk?
@@ -34,7 +34,7 @@ The remaining analysis investigates how booking patterns, hotel type, stay durat
 lead time are related to customer cancellation behaviour
 
 
-##2. Hotel Booking Analysis
+## 2. Hotel Booking Analysis
 
 Which Hotel Type Is Booked More Often?
 • The analysis shows that City Hotel is booked more often than Resort Hotel.
@@ -46,7 +46,7 @@ dataset.
 as business trips, short visits, events, and tourism. Resort Hotels may depend more
 on leisure travel and vacation periods.
 
-###Monthly Booking Pattern
+### Monthly Booking Pattern
 
 • I also analysed how the number of bookings changes during different months.
 • The booking numbers show that hotel demand changes throughout the year. Both
